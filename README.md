@@ -9,3 +9,4 @@ My tech-blog about system、program and so on
 
 ### 微信小程序
   [小程序蓝牙适配器接口](https://github.com/FlamingoTsui/tech-blog/issues/3)
+  [小程序微信支付](https://github.com/FlamingoTsui/tech-blog/issues/4)
