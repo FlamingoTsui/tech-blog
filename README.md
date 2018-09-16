@@ -14,3 +14,6 @@ My tech-blog about system、program and so on
   
 ### Java web
   [web.xml中load-on-startup的作用](https://github.com/FlamingoTsui/tech-blog/issues/5)
+
+### JavaScript
+  [可视化H5音乐播放器](https://flamingotsui.github.io/audioVisualizer/)
